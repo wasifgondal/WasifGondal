@@ -1,0 +1,318 @@
+body{
+    background-color: #222222;
+}
+
+.top{
+    position: absolute;
+    margin-top: 10px;
+    background-color: #404258;
+    height: 900px;
+    width: 99%;
+    opacity: 0.3;
+    border-radius: 3%;
+}
+.middle{
+    position: absolute;
+    margin-top: 930px;
+    background-color: #404258;
+    height: 900px;
+    width: 99%;
+    opacity: 0.3;
+    border-radius: 3%;
+}
+.bottom{
+    position: absolute;
+    margin-top: 1850px;
+    background-color: #404258;
+    height: 900px;
+    width: 99%;
+    opacity: 0.3;
+    border-radius: 3%;
+}
+.text{
+    position: absolute;
+    left: 50px;
+    height: auto;
+    width: 700px;
+}
+#work{
+    color: white;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
+#about{
+    color: white;
+    position: absolute;
+    left: 150px;
+    top: 50px;
+}
+/* #wip{
+    color: white;
+    position: absolute;
+    left: 250px;
+    top: 50px;
+} */
+#contact{
+    color: white;
+    position: absolute;
+    left: 250px;
+    top: 50px;
+}
+#des{
+    color: white;
+    font-size: large;
+    position: absolute;
+    line-height: 30px;
+    left: 100px;
+    top: 500px;
+}
+.linkedin{
+    position: absolute;
+    top: 60px;
+    right: 50px;
+}
+.facebook{
+    position: absolute;
+    top: 60px;
+    right: 120px;
+}
+.gif{
+    position: absolute;
+    top: 300px;
+    right: 100px;
+}
+#hi{
+    position: absolute;
+    font-size: 100px;
+    top: 180px;
+    left: 100px;
+    color: #FBDA61;
+    text-decoration: underline;
+}
+#designer{
+    position: absolute;
+    font-size: 100px;
+    top: 300px;
+    left: 100px;
+    color: #FBDA61;
+    text-decoration: underline;
+}
+.left-top-box{
+    position: absolute;
+    top: 200px;
+    right: 600px;
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+    background: linear-gradient(90deg, #FBDA61 0%, #FF5ACD 100%);
+
+}
+.right-top-box{
+    position: absolute;
+    top: 200px;
+    right: 150px;
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+    /* background-color: #4158D0; */
+    background: linear-gradient(90deg, #FBDA61 0%, #FF5ACD 100%);
+}
+.shapes{
+    height: 500px;
+    width: 400px;
+    position: absolute;
+    right: 150px;
+    top: 200px;
+    background-color: #4158D0;
+    border-radius: 25px;
+}
+.left-bottom-box{
+    position: absolute;
+    top: 600px;
+    right: 150px;
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+    /* background-color: #4158D0; */
+    background: linear-gradient(90deg, #FBDA61 0%, #FF5ACD 100%);
+    
+}
+.right-bottom-box{
+    position: absolute;
+    top: 600px;
+    right: 600px;
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+    background: linear-gradient(90deg, #FBDA61 0%, #FF5ACD 100%);
+}
+
+#circle{
+    height: 350px;
+    width: 350px;
+    border-radius: 100%;
+    position: absolute;
+    top: 280px;
+    right: 265px;
+    background-color: #4158D0;
+}
+.left-recs{
+    height: 480px;
+    width: 150px;
+    margin-top: 70px;
+    margin-left: 50px;
+   
+}
+.left-rec1{
+    position: absolute;
+    height: 400px;
+    width: 100px;
+    margin-top: 200px;
+    margin-left: 100px;
+    background-image: linear-gradient(180deg, #FFDEE9 0%, #B5FFFC 100%);
+}
+.left-rec2{
+    position: absolute;
+    background-color: #ffffff;
+    height: 400px;
+    width: 100px;
+    margin-top: 120px;
+    margin-left: 210px;
+    background: linear-gradient(180deg, #FBDA61 0%, #FF5ACD 100%);
+}
+.left-rec3{
+    position: absolute;
+    background-color: #ffffff;
+    height: 400px;
+    width: 100px;
+    margin-top: 200px;
+    margin-left: 320px;
+    background-image: linear-gradient(180deg, #FFDEE9 0%, #B5FFFC 100%);
+}
+.left-rec4{
+    position: absolute;
+    background-color: #ffffff;
+    height: 400px;
+    width: 100px;
+    margin-top: 120px;
+    margin-left: 430px;
+    background: linear-gradient(180deg, #FBDA61 0%, #FF5ACD 100%);
+}
+.middle-for-transparrent-parent{
+    position: absolute;
+    margin-top: 950px;
+    height: 900px;
+    width: 99%;
+    border-radius: 3%;
+}
+h2{
+    font-size: 100px;
+    color: white;
+    position: absolute;
+    top: 70px;
+    right: 150px;
+}
+#des-in-2nd-block{
+    color: white;
+    position: absolute;
+    top: 270px;
+    right: 150px;
+    line-height: 30px;
+    text-align: right;
+}
+.right-text-of-about{
+    /* background-color: #FFDEE9; */
+    position: absolute;
+    height: 700px;
+    width: 700px;
+    right: 20px;
+    top: 100px;
+}
+.lower-transparent-section{
+    position: absolute;
+    margin-top: 1850px;
+    height: 900px;
+    width: 99%;
+    opacity: 1;
+    border-radius: 3%;
+}
+.video{
+    position: absolute;
+    height: 100;
+    width: auto;
+    border-radius: 7%;
+    right: 100px;
+    top: 205px;
+}
+.bottom-dec-text{
+    position: absolute;
+    top: 20px;
+}
+#text-in-3rd-block{
+    position: absolute;
+    top: 20px;
+    left: 0px;
+    color: white;
+}
+#des-in-3rd-block{
+    position: absolute;
+    color: white;
+    line-height: 30px;
+    top: 220px;
+}
+.section3-of-work{
+    position: absolute;
+    top: 180px;
+    height: 500px;
+    width: 600px;
+    /* background-color: #B5FFFC; */
+    left: 100px;
+}
+.circle-for-contact{
+    height: 250px;
+    width: 99%;
+    position: absolute;
+    /* background-color:#404258; */
+    border-radius: 5%;
+    top: 2775px;
+
+}
+.circle-for-contact2{
+    height: 250px;
+    width: 99%;
+    position: absolute;
+    background-color:#404258;
+    border-radius: 5%;
+    opacity: 0.3;
+}
+#whatsapp{
+    position: absolute;
+    left: 780px;
+    top: 40px;
+}
+#button{
+    position: absolute;
+    left: 420px;
+    top: 160px;
+    text-align: center;
+    width: 50%;
+    height: 40px;
+    font-size: 20px;
+    background: linear-gradient(90deg, #FBDA61 0%, #FF5ACD 100%);
+    color: white;
+    border: none;
+}
+#button a{
+    text-decoration: none;
+    color: #222222;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.footer{
+    height: 10px;
+    width: 99%;
+    background: linear-gradient(90deg, #FBDA61 0%, #FF5ACD 100%);
+    position: absolute;
+    top: 205px;
+    
+}
